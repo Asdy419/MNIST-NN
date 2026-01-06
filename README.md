@@ -1,3 +1,2 @@
-** Neural Network learning project**
-
-Learning neural network structure via implementation of the MNIST dataset.
+# Neural Network on the MNIST dataset
+An implementation of a simple feed forward neural network trained by back propogation.
